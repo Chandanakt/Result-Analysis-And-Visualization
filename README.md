@@ -35,12 +35,9 @@ This system supports **multiple departments, batches, and semesters**, auto-dete
 ``` bash
 student-result-dashboard/
 │
-├── streamlit_student_dashboard_full.py
+├── dashboard.py
 ├── data/
 │   ├── Result_sheet_Template.xlsx
-│   ├── CSE_2024_SEM1.xlsx
-│   ├── AIML_2024_SEM2.xlsx
-│   └── ...
 │
 ├── requirements.txt
 └── README.md
@@ -65,7 +62,7 @@ pip install -r requirements.txt
 ### ▶️ Run Application
 
 ```bash
-streamlit run streamlit_student_dashboard_full.py
+streamlit run dashboard.py
 ```
 
 ---
