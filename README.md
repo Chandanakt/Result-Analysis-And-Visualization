@@ -32,6 +32,7 @@ This system supports **multiple departments, batches, and semesters**, auto-dete
 
 ## 📁 Project Structure
 
+``` bash
 student-result-dashboard/
 │
 ├── streamlit_student_dashboard_full.py
@@ -44,6 +45,7 @@ student-result-dashboard/
 ├── requirements.txt
 └── README.md
 
+```
 ---
 
 ## 📦 Installation
