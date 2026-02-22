@@ -119,6 +119,12 @@ The system converts VTU-style wide Excel sheets into a long format with columns:
 
 ---
 
-## 👤 Author
-Chandana K T & Amulya U 
-Computer Science Undergraduate, GSSSIETW
+## 👤 Authors
+
+**Chandana K T**  
+Computer Science(AIML) Undergraduate, GSSSIETW  
+
+**Amulya U**  
+Computer Science(AIML) Undergraduate, GSSSIETW  
+
+---
